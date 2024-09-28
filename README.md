@@ -1,21 +1,22 @@
 # 🏥 Patients Hospital Visit Analysis Project
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="Hospital Dashboard Preview">
+  <img src="![Screenshot (18)](https://github.com/user-attachments/assets/63aa016d-e92f-46a9-8582-aa85fd210286)
+" alt="Hospital Dashboard Preview">
 </div>
 
 ## 🚀 Revolutionizing Hospital Management with Data
 
 Transforming complex patient data into actionable insights for better healthcare delivery.
 
-### 🎯 Problem We Solved
+### 🎯 Problem I Solved
 
 Hospital administrators struggled with:
 - Tracking key metrics (visits, satisfaction, wait times)
 - Making sense of growing data complexity
 - Lack of user-friendly, dynamic analysis tools
 
-### 💡 Our Solution: Power BI Magic!
+### 💡 My Solution: Power BI Magic!
 
 We created a comprehensive Power BI dashboard that brings hospital data to life:
 
