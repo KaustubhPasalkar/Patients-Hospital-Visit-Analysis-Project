@@ -1,9 +1,7 @@
 # 🏥 Patients Hospital Visit Analysis Project
 
-<div align="center">
-  <img src="![Screenshot (18)](https://github.com/user-attachments/assets/63aa016d-e92f-46a9-8582-aa85fd210286)
-" alt="Hospital Dashboard Preview">
-</div>
+![Screenshot (18)](https://github.com/user-attachments/assets/1bfcb9af-b0cc-4398-a576-4ca5e526281e)
+
 
 ## 🚀 Revolutionizing Hospital Management with Data
 
